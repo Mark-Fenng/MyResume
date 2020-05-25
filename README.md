@@ -4,7 +4,7 @@ This is my personal resume used to apply for a master's degree.
 
 ### How to generate a pdf file?
 
-It is written in Latex.
+It was written in Latex.
 
 Latex:
 > name: [Tex Live](https://www.tug.org/texlive/)

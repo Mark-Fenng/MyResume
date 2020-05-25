@@ -1,1 +1,4 @@
 __latexindent_temp.tex
+*.aux
+*.log
+*.out
